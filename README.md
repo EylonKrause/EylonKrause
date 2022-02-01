@@ -1,4 +1,4 @@
-• Hi, I’m Eylon Eliyahu Krause, feel free to call me Eylon! :D I'm an experienced Electrical Engineer in the field of DSP Architecture development.
+• Hi, I’m Eylon Eliyahu Krause, feel free to call me Eylon! :D I'm an Electrical Engineer expreienced with development of DSP  Architecture.
 
 • I’m currently studying for a M.Sc. at Weizmann Insitute of science in CS and Math
 
