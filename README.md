@@ -1,7 +1,5 @@
 • Hi, I’m Eylon Eliyahu Krause, feel free to call me Eylon! :D I'm an Electrical Engineer expreienced with development of DSP  Architecture.
 
-• I’m currently studying for a M.Sc. at Weizmann Insitute of science in CS and Math
-
 • My past projects include inter alia: medical DSP (wavelets/RT/ML), optical communications and reflective antenna theory.
 
 • Feel free to reach me by mail: eylon1909@gmail.com
